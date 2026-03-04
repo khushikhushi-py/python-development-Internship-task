@@ -1,0 +1,35 @@
+# AI-Driven NLP Sentiment Analysis Project
+
+ Project Overview
+This project implements a Sentiment Analysis system using Python and Natural Language Processing (NLP).  
+It analyzes user text and classifies it as Positive, Negative, or Neutral based on polarity scores.
+
+Technologies Used
+- Python
+- TextBlob
+- Matplotlib
+- Google Colab
+
+⚙️ How It Works
+1. Takes text input from user.
+2. Calculates sentiment polarity using TextBlob.
+3. Classifies sentiment:
+   - Positive (polarity > 0)
+   - Negative (polarity < 0)
+   - Neutral (polarity = 0)
+4. Visualizes sentiment scores using bar graph.
+
+📊 Features
+- Single sentence analysis
+- Multiple sentence analysis
+- Sentiment polarity visualization
+- Real-world NLP application
+
+ Applications
+- Social Media Monitoring
+- Customer Feedback Analysis
+- Review Classification
+- Chatbot Sentiment Detection
+
+Conclusion
+This project demonstrates practical implementation of NLP and AI techniques for sentiment analysis.
